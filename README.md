@@ -13,6 +13,7 @@ Benefits:
  See
  
  com.tarde.merger.DataProvider - target object data structure
+ 
  com.tarde.merger.ObjectMergerTest - use cases
  
  Code example:
